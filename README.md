@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sidekick](https://github.com/elabbit/sidekick)
 
-- 🌱 I’m currently learning **Sass, React-Native, Swift, Typescript, Java**
+- 🌱 I’m currently learning and plan to learn **Sass, React-Native, Swift, Typescript, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lynnluong04](https://github.com/lynnluong04)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://lynnluong04.github.io/images/Lynn%20Luong%20Resume%202023.pdf](https://lynnluong04.github.io/images/Lynn%20Luong%20Resume%202023.pdf)
 
-- ⚡ Fun fact **I'm currently learning German**
+- ⚡ Fun fact **I minored in Spanish and I'm currently learning Korean and German**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
