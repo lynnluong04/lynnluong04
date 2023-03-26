@@ -1,5 +1,5 @@
-<h1 align="center">Hello 🌎, I'm Lynn</h1>
-<h3 align="center">I'm a full stack developer! I love learning new things, especially language and culture. Part of the reason why I decided to become a software engineer!</h3>
+<h1 align="center">Hello 🌎</h1>
+<h3 align="center">My name is Lynn and I'm a full stack developer! I love learning new things, especially language and culture. Part of the reason why I decided to become a software engineer!</h3>
 
 - 🔭 I’m currently working on [Sidekick](https://github.com/elabbit/sidekick)
 
