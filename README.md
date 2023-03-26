@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lynnluong04](https://github.com/lynnluong04)
 
-- 🔗 Connect with me [https://www.linkedin.com/in/lynn-luong/](https://www.linkedin.com/in/lynn-luong/)
+- 🔗 Explore my page [https://lynnluong04.github.io/](https://lynnluong04.github.io/)
 
 - 💬 Ask me about **React, Redux, Node, Flask**
 
