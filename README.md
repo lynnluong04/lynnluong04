@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sidekick](https://github.com/elabbit/sidekick)
 
-- 🌱 I’m currently learning and plan to learn **Go, React-Native, Playwrite, Swift, Typescript**
+- 🌱 I’m currently learning and plan to learn **Go, React-Native, Playwright, Swift, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lynnluong04](https://github.com/lynnluong04)
 
